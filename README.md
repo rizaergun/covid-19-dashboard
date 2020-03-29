@@ -2,7 +2,7 @@
 
 ## About Covid-19 Dashboard
 
-COVID-19 Dashboard, local and global coronavirus cases with active, recoveries and death rate.
+COVID-19 Dashboard; monitor local and global coronavirus cases with confirmed, recovered and deaths rate.
 
 ## License
 
